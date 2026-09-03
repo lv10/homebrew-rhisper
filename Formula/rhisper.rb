@@ -1,8 +1,8 @@
 class Rhisper < Formula
   desc "Dictation at cursor for Linux and macOS"
   homepage "https://github.com/lv10/rhisper"
-  url "https://github.com/lv10/rhisper/archive/refs/tags/v0.2.6.tar.gz"
-  sha256 "1537c88bb5fa83ed4a8a307790ce8f552e1d7055c62c2bc5c1a01fa8f4f7a8c4"
+  url "https://github.com/lv10/rhisper/archive/refs/tags/v0.2.7.tar.gz"
+  sha256 "d61bce9d626d87a15bac849cb4f14fb16aea8d037f50fe0c9c34126e18073a5e"
   license "MIT"
 
   depends_on "rust" => :build
